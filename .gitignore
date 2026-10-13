@@ -1,0 +1,12 @@
+# === Obsidian 本地配置（不提交） ===
+.obsidian/
+.trash/
+
+# === 暂不提交的内容文件夹 ===
+ai_小镇/
+陶的小项目/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+desktop.ini
